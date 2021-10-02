@@ -15,4 +15,6 @@
 
 <br>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dishant145&langs_count=5&theme=tokyonight)]()
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant145&theme=dark)](https://git.io/streak-stats)
+
+
