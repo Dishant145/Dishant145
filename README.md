@@ -9,6 +9,10 @@
 
 <br> 
 
+![GitHub Views](https://komarev.com/ghpvc/?username=Dishant145)
+
+<br> 
+
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dishant145&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Dishant145)
 
