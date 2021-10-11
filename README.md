@@ -11,6 +11,9 @@
 
 <br> 
 
+<img align="left" height="22px" src="https://komarev.com/ghpvc/?username=Dishant145&label=Visitors&color=0E75B6&style=plastic" alt="Dishant145" />
+
+<br><br>
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dishant145&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Dishant145)
 
