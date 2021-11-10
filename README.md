@@ -30,4 +30,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant145&theme=dark)](https://github.com/Dishant145)
 
+<br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant145&theme=tokyonight)
