@@ -24,11 +24,12 @@
 
 <br><br>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dishant145&count_private=true&theme=tokyonight&showicons=true)](https://github.com/Dishant145)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishant145&theme=gotham)](https://github.com/Dishant145)
 
 <br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dishant145&theme=dark)](https://github.com/Dishant145)
+
 
 <br>
 
