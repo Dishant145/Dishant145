@@ -32,4 +32,8 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant145&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishant145&theme=dark)](https://github.com/Dishant145)
+
+<br>
+
+
