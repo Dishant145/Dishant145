@@ -1,3 +1,6 @@
+<p align = "center">
+ 
+ 
 ### Hi there, I'm Dishant Kumar Jain 👋
 
 
@@ -33,4 +36,4 @@
 
 <br>
 
-
+</p>
