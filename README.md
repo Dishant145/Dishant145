@@ -6,9 +6,9 @@
 
 <br>
 
-
-- 👯 I’m looking to collaborate on open source projects
-- 📫 How to reach me: say 👋 on Email at dishant1104@gmail.com
+- 👋 I’m interested in the field of Machine Learning and Natural Language Processing, eager to build scalable applications using cloud technologies and APIs.
+- 👯 I love collaborating on innovative projects and continuously learning new skills.
+- 📫 How to reach me: dishant1104@gmail.com
 
 <br> 
 
